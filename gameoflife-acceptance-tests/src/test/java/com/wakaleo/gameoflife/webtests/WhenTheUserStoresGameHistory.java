@@ -11,12 +11,12 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
 
-@RunWith(ThucydidesRunner.class)
+(ThucydidesRunner.class)
 
 @WithTag("Storing simulation history")
 public class WhenTheUserStoresGameHistory {
 
-    @Test
+    
     public void aUserShouldBeAbleToSaveASimulationForFutureUse() {}
 
     @Test
